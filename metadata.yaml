@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/407
     wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30167#Royal-Children-of-English-History
 gutenberg_issued: '2009-10-04'
 gutenberg_type: Text
 identifiers:
