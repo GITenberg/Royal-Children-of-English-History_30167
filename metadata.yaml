@@ -1,0 +1,42 @@
+_repo: Royal-Children-of-English-History_30167
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Bowley, May
+    alias: Bowley, M. (May)
+    gutenberg_agent_id: '34412'
+    url: http://www.gutenberg.org/2009/agents/34412
+  - agent_name: Brundage, Frances
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '34411'
+    url: http://www.gutenberg.org/2009/agents/34411
+covers:
+- cover_type: archival
+  image_path: 30167-h/images/backcover.jpg
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Nesbit, Edith
+    - Bland, Edith Nesbit
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_issued: '2009-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Princes -- Great Britain -- Biography'
+- !lcsh 'Princesses -- Great Britain -- Biography'
+title: Royal Children of English History
+url: http://www.gutenberg.org/ebooks/30167
